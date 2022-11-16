@@ -1,0 +1,1 @@
+export const PromisesNFTAddress = "0xF02E42f3a530210D4a055aa308A59c9aB97336ab";
